@@ -4,7 +4,7 @@
   "description": "🦆",
   "main": "index.jsx",
   "scripts": {
-    "enter-the-ducks": "react-scripts start"
+    "start": "react-scripts start"
   },
   "keywords": [],
   "author": "",
@@ -25,5 +25,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
-}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/spa-component-my-address-book-LeaCrazyBambi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FbW-E01/spa-component-my-address-book-LeaCrazyBambi/issues"
+  } }
